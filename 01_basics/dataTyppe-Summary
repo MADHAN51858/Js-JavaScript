@@ -1,0 +1,14 @@
+// Based on how data is stored in memory and how it accesed
+
+// Primitive
+
+// 7 types: String, Number, Boolean, null, undefined, Symbol, BinInt
+
+
+// Reference (non-Primitive) : 
+//*** master js by  learning objects and browser events****
+
+//Array, Objects, Funcgtions 
+
+// javaScript is Dynamically typed 
+// (i.e datatypes are not defined by user)
