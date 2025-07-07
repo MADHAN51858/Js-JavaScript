@@ -1,11 +1,13 @@
 // Based on how data is stored in memory and how it accesed
 
-// Primitive
+// Primitive (Stack Memory is used and you get a copy of that variable you created )
 
 // 7 types: String, Number, Boolean, null, undefined, Symbol, BinInt
 
 
 // Reference (non-Primitive) : 
+// Heap Memory is used and you get a reference of that value)
+
 //*** master js by  learning objects and browser events****
 
 //Array, Objects, Funcgtions 
