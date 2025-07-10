@@ -24,7 +24,12 @@
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel, reiciendis?</p>
     </div>
     <script>
-        document.getElementsByClassName(".bg-black")
+        function addh1(h11){
+            const h1 = document.createElement('h1')
+            h1.innerHTML = `${h11}`
+            document.querySelector('.bg-black').appendChild(h1)
+        }        
+        addh1("Dom Adding")
     </script>
 </body>
 </html>
